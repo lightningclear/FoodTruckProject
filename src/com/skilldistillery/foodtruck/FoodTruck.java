@@ -72,31 +72,4 @@ public class FoodTruck {
 
 	}
 
-	public void listFoodTrucks(FoodTruck[] numFoodTruck) {
-		for (int i = 0; i < numFoodTruck.length; i++) {
-			System.out.println(numFoodTruck[i]);
-		}
-		return;
-	}
-
-	private double averageRating(FoodTruck numFoodTruck) {
-		double sum = 0;
-		int counter = 0;
-		for (double i = 0; i < counter; i++) {
-			if(i < counter) {
-				sum = sum + (numFoodTruck[i]
-			}
-			
-		}String total;
-		System.out.println("rating is" + total);
-		;
-
-	}
-
-	public void highestRated(FoodTruck[] numFoodTruck) {
-		int[] numFoodTruck1 = null;
-		Arrays.sort(numFoodTruck1, nextTruckID, length);
-		
-		
-		return;
-}}
+}
